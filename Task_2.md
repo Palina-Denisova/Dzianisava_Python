@@ -1,6 +1,6 @@
 ## Task 2. Bracket sequence
 
-**Given sequence:** [((())()(())]]
+**Given sequence:** `[((())()(())]]`
 
 **1. Can this sequence be considered correct?**
 
