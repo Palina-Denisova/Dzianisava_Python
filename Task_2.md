@@ -13,7 +13,7 @@ Replace the penultimate closing square bracket `]` with a closing parenthesis `)
 **Corrected sequence:**
 `[((())()(()))]`
 
-**3. **Validation logic:**
+**3. Validation logic:**
 
 To check bracket sequences, I used the following principles:
 
