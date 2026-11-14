@@ -1,8 +1,8 @@
 # input > 7
 def check_number():
 
-    int_input = int(input("Enter a number greater than 7: "))
-    if int_input > 7:
+    num_input = float(input("Enter a number greater than 7: "))
+    if num_input > 7:
         print("Hello")
 
 # input == or != "John"
